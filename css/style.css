@@ -1,0 +1,26 @@
+/* common css start */
+/* *{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+ul ol{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+.container{
+    width: 1140px;
+    margin: auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+} */
+/* common css end */
+.item{
+    background-color: rgb(214, 202, 224);
+    border: 2px solid yellow;
+}
